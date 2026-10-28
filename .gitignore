@@ -1,0 +1,6 @@
+highscore.dat
+__pycache__/
+.venv/
+.DS_Store
+.gstack/
+build/
